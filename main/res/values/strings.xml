@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">E-Zakat Calculator</string>
+    <string name="copyright">Copyright &#169; 2022 by Azizah and Syahirah</string>
+    <string name="about_text1">E-Zakat Calculator is a Mobile Application that used to estimate zakat payment for gold keeping.
+        The application will calculate the total value of the gold, total gold value that is zakat payable, and the total zakat.</string>
+    <string name="developer_info">Developer Information</string>
+    <string name="developer1">1. Azizah Binti Mohamad Imran. Student ID is 2021172575. From group RCS2405B</string>
+    <string name="developer2">2. Siti Nur Syahirah Binti Osman. Student ID is 2021120183. From group RCS2405B</string>
+    <string name="url">Click the link to go to our application website</string>
+    <string name="link"><a href="https://github.com/azizahimran/Azizah-Siti-Nur-Syahirah">E-Zakat Website</a></string>
+</resources>
